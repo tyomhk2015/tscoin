@@ -11,4 +11,5 @@ Supports Type stricted rules, which prevents unintended bugs that do happend in 
 
 ### Setting related to Typescript
 
-`tsconfig.json`: Configuration of transcompiling TS to JS.
+`tsconfig.json`: Configuration of transcompiling TS to JS. <a href="https://www.typescriptlang.org/tsconfig">Document</a>
+
