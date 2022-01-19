@@ -84,3 +84,6 @@ Tells TS that the there is a type that could be anything but `any`.
   function do &#60;T&#62; (array: T[], value: T ) {...}
 </pre>
 
+### Learned
+
+Assigning types were very similar to Java, at least for me.
